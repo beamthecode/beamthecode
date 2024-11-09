@@ -8,11 +8,9 @@
 ) ![Image](https://img.shields.io/badge/CoreData-white
 ) ![Image](https://img.shields.io/badge/AppStorage-white
 ) ![Image](https://img.shields.io/badge/MVVM-white
-) ![Image](https://img.shields.io/badge/UIDesign-white
 ) ![Image](https://img.shields.io/badge/API's-white
 ) ![Image](https://img.shields.io/badge/Back%20End%20Database-white
 ) ![Image](https://img.shields.io/badge/SDK's-white
-) ![Image](https://img.shields.io/badge/Firebase-white
 ) ![Image](https://img.shields.io/badge/Concurrency-white
 ) ![Image](https://img.shields.io/badge/AVKit-white
 ) ![Image](https://img.shields.io/badge/CoreAudio-white
